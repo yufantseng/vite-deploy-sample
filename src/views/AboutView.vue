@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about test</h1>
+    <h1>This is an all about testing ssh key</h1>
     {{ data }}
   </div>
 </template>
